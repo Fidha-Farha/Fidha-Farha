@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Fidha-Farha
+- 👀 I’m interested in Frontend-Development.
+- 🌱 I’m currently learning JavaScript.
+- 📫 Reach me at fidhafarha24@gmail.com
